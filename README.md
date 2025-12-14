@@ -1,5 +1,4 @@
-# Fynd AI Intern – Take Home Assessment  
-## Task 1: Rating Prediction via Prompt Engineering
+ ## Task 1: Rating Prediction via Prompt Engineering
 
 ## Overview
 This repository contains the solution for Task 1 of the Fynd AI Intern Take Home Assessment. The task focuses on using prompt engineering techniques to classify Yelp reviews into star ratings (1–5) using a Large Language Model (LLM), without training any machine learning model.
