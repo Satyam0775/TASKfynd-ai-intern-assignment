@@ -1,0 +1,26 @@
+[
+  {
+    "predicted_stars": 1,
+    "explanation": "Frequent fights and lame atmosphere"
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review highlights many positive aspects with only a minor criticism."
+  },
+  {
+    "predicted_stars": 4,
+    "explanation": "Positive review with fast service and good food"
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Positive review with multiple compliments about the atmosphere, food, and staff."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review praises the professionalism, thoroughness, and quality of the work."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The review highlights excellent service, generous portions, and a positive overall experience."
+  }
+]

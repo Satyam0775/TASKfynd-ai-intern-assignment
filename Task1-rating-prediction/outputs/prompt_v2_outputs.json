@@ -1,0 +1,22 @@
+[
+  {
+    "predicted_stars": 1,
+    "explanation": "Very negative experience with aggressive atmosphere."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Highly positive dining experience with great food and service."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Exceptional experience with great food and service."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Exceptional service and outstanding results."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "Exceptional service and dining experience."
+  }
+]

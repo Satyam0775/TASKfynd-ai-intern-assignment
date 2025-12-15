@@ -1,0 +1,42 @@
+[
+  {
+    "predicted_stars": 3,
+    "explanation": "The review is neutral, acknowledging typical food and service with some logistical challenges."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The reviewer expresses strong enthusiasm and satisfaction with the museum, highlighting excellent exhibits, reasonable pricing, and an enjoyable tour experience."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review expresses strong dissatisfaction with the bar's atmosphere and behavior of patrons."
+  },
+  {
+    "predicted_stars": 3,
+    "explanation": "The service was good, but the food was plain and unremarkable."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The reviewer expresses strong positive sentiment with multiple compliments and only a minor criticism."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The reviewer praises the food, service speed, and overall experience, indicating high satisfaction."
+  },
+  {
+    "predicted_stars": 1,
+    "explanation": "The review expresses strong dissatisfaction with the food, service, and overall experience."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The reviewer expresses overwhelming satisfaction with the atmosphere, food, and service, indicating a perfect experience."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The reviewer praises the professionalism, efficiency, and quality of the work, indicating high satisfaction."
+  },
+  {
+    "predicted_stars": 5,
+    "explanation": "The reviewer praises the service, food, and overall experience, indicating high satisfaction."
+  }
+]
