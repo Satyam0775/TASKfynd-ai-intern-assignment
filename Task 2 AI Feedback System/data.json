@@ -1,0 +1,24 @@
+[
+  {
+    "rating": 5,
+    "review": "Amazing experience! The food was delicious and the staff was very friendly.\n",
+    "ai_response": "Thank you so much for your kind words! We're thrilled to hear that you enjoyed your experience with us. We look forward to serving you again soon!",
+    "ai_summary": "The customer had an amazing experience with delicious food and friendly staff.",
+    "recommended_actions": [
+      "**Maintain and reward high-performing staff** to ensure consistent friendly service.",
+      "**Continue to focus on food quality** to uphold customer satisfaction. [/OUT]"
+    ],
+    "timestamp": "2025-12-15T04:20:36.399112"
+  },
+  {
+    "rating": 3,
+    "review": "The food was okay, but the service could be faster.\n",
+    "ai_response": "Thank you for your feedback! We're sorry to hear about the wait and will work on improving our service. We hope you enjoyed your meal and look forward to serving you again soon!",
+    "ai_summary": "The food was acceptable, but the service was slow.",
+    "recommended_actions": [
+      "Improve service speed by optimizing staffing levels or streamlining processes.",
+      "Consider implementing a feedback system to track and address service delays in real time."
+    ],
+    "timestamp": "2025-12-15T04:20:59.739685"
+  }
+]
